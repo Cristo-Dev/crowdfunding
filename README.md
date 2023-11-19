@@ -1,3 +1,5 @@
+Visit the demo here: [https://algo-refugee-economy.vercel.app/](https://algo-refugee-economy.vercel.app/)
+
 Now i need to start docker
 generate wallet
 start the server with `./sandbox up`
